@@ -54,8 +54,8 @@ body {
   display: none;
   float: left;
   position: absolute;
-  top: 168;
-  left: 568;
+  top: 168px;
+  left: 568px;
   z-index: 10;
 }
 
